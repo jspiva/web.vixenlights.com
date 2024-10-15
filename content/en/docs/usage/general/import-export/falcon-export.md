@@ -46,7 +46,7 @@ The next screen will be used to setup how to do the export. Here you can choose 
 
 Once you have chosen a format, the next section will adapt for the format. For Falcon 2.6+, the main options here are as follows.
 
-- **Create Universe File** This specifies if the universe configuration file should be genrated that reflects the controller and channel mapping. This is generated in the exact format that FPP uses. It can be directly uploaded to replace the existing configuration as part of the export in the wizard.
+- **Create Universe File** This specifies if the universe configuration file should be generated that reflects the controller and channel mapping. This is generated in the exact format that FPP uses. It can be directly uploaded to replace the existing configuration as part of the export in the wizard.
 - **Include Audio** This specifies if the audio file should be included as part of the export. If enabled, the audio file will be named the same as the sequence file to ensure FPP can locate it automatically.
 - **Backup Universe File** If the export location already has a universe file it will be renamed before it is replaced with the new one created when **Create Universe File** is enabled.
 - **Enable Conpression** This enables the FSEQ file to be compressed. The default is enabled and recommended.
